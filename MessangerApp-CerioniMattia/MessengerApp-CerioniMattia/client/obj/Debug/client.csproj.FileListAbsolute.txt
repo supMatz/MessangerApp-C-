@@ -1,0 +1,24 @@
+C:\Users\utente\Desktop\vscode\C#\Messenger-App-master\Messenger App\client\bin\Debug\client.exe.config
+C:\Users\utente\Desktop\vscode\C#\Messenger-App-master\Messenger App\client\bin\Debug\client.exe
+C:\Users\utente\Desktop\vscode\C#\Messenger-App-master\Messenger App\client\bin\Debug\client.pdb
+C:\Users\utente\Desktop\vscode\C#\Messenger-App-master\Messenger App\client\bin\Debug\SuperSimpleTcp.dll
+C:\Users\utente\Desktop\vscode\C#\Messenger-App-master\Messenger App\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\utente\Desktop\vscode\C#\Messenger-App-master\Messenger App\client\obj\Debug\client.Client.resources
+C:\Users\utente\Desktop\vscode\C#\Messenger-App-master\Messenger App\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\utente\Desktop\vscode\C#\Messenger-App-master\Messenger App\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\utente\Desktop\vscode\C#\Messenger-App-master\Messenger App\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\vscode\C#\Messenger-App-master\Messenger App\client\obj\Debug\client.csproj.Up2Date
+C:\Users\utente\Desktop\vscode\C#\Messenger-App-master\Messenger App\client\obj\Debug\client.exe
+C:\Users\utente\Desktop\vscode\C#\Messenger-App-master\Messenger App\client\obj\Debug\client.pdb
+C:\Users\utente\code\vscode\C#\MessangerApp-CerioniMattia\MessengerApp-CerioniMattia\client\bin\Debug\client.exe.config
+C:\Users\utente\code\vscode\C#\MessangerApp-CerioniMattia\MessengerApp-CerioniMattia\client\bin\Debug\client.exe
+C:\Users\utente\code\vscode\C#\MessangerApp-CerioniMattia\MessengerApp-CerioniMattia\client\bin\Debug\client.pdb
+C:\Users\utente\code\vscode\C#\MessangerApp-CerioniMattia\MessengerApp-CerioniMattia\client\bin\Debug\SuperSimpleTcp.dll
+C:\Users\utente\code\vscode\C#\MessangerApp-CerioniMattia\MessengerApp-CerioniMattia\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\utente\code\vscode\C#\MessangerApp-CerioniMattia\MessengerApp-CerioniMattia\client\obj\Debug\client.Client.resources
+C:\Users\utente\code\vscode\C#\MessangerApp-CerioniMattia\MessengerApp-CerioniMattia\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\utente\code\vscode\C#\MessangerApp-CerioniMattia\MessengerApp-CerioniMattia\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\utente\code\vscode\C#\MessangerApp-CerioniMattia\MessengerApp-CerioniMattia\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\utente\code\vscode\C#\MessangerApp-CerioniMattia\MessengerApp-CerioniMattia\client\obj\Debug\client.csproj.Up2Date
+C:\Users\utente\code\vscode\C#\MessangerApp-CerioniMattia\MessengerApp-CerioniMattia\client\obj\Debug\client.exe
+C:\Users\utente\code\vscode\C#\MessangerApp-CerioniMattia\MessengerApp-CerioniMattia\client\obj\Debug\client.pdb
